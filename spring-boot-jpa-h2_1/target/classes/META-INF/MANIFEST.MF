@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-jpa-h2
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Sudaksha-Trainer-Pc1
+Implementation-Vendor-Id: in.niraj.spring
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-boot-jpa-h2
+Created-By: Maven Integration for Eclipse
+
